@@ -5,7 +5,6 @@
 ```sh
 $ git clone git@github.com:sfrady/bytecubed-teleporter.git
 $ cd bytecubed-teleporter
-$ npm install
 ```
 
 ### Running the program
