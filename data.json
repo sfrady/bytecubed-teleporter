@@ -1,0 +1,87 @@
+{
+  "cities": [
+    {
+      "id": 0,
+      "name": "Fortuna"
+    },
+    {
+      "id": 1,
+      "name": "Hemingway"
+    },
+    {
+      "id": 2,
+      "name": "Atlantis"
+    },
+    {
+      "id": 3,
+      "name": "Chesterfield"
+    },
+    {
+      "id": 4,
+      "name": "Springton"
+    },
+    {
+      "id": 5,
+      "name": "Los Amigos"
+    },
+    {
+      "id": 6,
+      "name": "Paristown"
+    },
+    {
+      "id": 7,
+      "name": "Oaktown"
+    },
+    {
+      "id": 8,
+      "name": "Summerton"
+    }
+  ],
+  "paths": [
+    {
+      "id": 0,
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": 1,
+      "a": 0,
+      "b": 2
+    },
+    {
+      "id": 2,
+      "a": 1,
+      "b": 3
+    },
+    {
+      "id": 3,
+      "a": 3,
+      "b": 4
+    },
+    {
+      "id": 4,
+      "a": 5,
+      "b": 6
+    },
+    {
+      "id": 5,
+      "a": 6,
+      "b": 7
+    },
+    {
+      "id": 6,
+      "a": 5,
+      "b": 7
+    },
+    {
+      "id": 7,
+      "a": 8,
+      "b": 4
+    },
+    {
+      "id": 8,
+      "a": 8,
+      "b": 1
+    }
+  ]
+}
